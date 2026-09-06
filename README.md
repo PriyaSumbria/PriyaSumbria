@@ -5,7 +5,7 @@
 
 -  I’m currently learning **FastAPI, OpenCV, NLP**
 
--  How to reach me **priyasumbria304@gmail.com**
+-  How to reach me **priyaaasumbria@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
