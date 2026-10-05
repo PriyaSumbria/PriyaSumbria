@@ -28,11 +28,11 @@
 
 <div align="center">
 
-![Priya Sumbria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyaaasumbria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Priya Sumbria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyaSumbria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyaaasumbria&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyaSumbria&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaaasumbria&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -41,7 +41,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-sumbria-a0868b260/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaaasumbria@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PriyaSumbria@gmail.com)
 
 </div>
 
