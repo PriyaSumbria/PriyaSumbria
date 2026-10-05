@@ -1,17 +1,49 @@
-<h1 align="center">Hi There👋, I'm Priya Sumbria</h1>
-<h3 align="center">Learning By Building</h3>
+<div align="center">
 
--  HI I'm working on building **AIRecruitX**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring%20Analyst;Open%20Source%20Contributor%20%E2%9A%A1)](https://git.io/typing-svg)
 
--  I’m currently learning **FastAPI, OpenCV, NLP**
+</div>
 
--  How to reach me **priyaaasumbria@gmail.com**
+# 🚀 Hey there, I'm Priya Sumbria
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priya-sumbria-a0868b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priya-sumbria-a0868b260" height="30" width="40" /></a>
-</p>
+> Data tells the story, Creativity gives it color.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🌟 About Me
 
+- 🔭 **Currently building:** Data-driven projects and strengthening my analytical and technical skills through hands-on work.
+- 🌱 **Learning:** Working with data, building dashboards and turning raw information into meaningful insights using Python, SQL, Excel and Power BI.
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-7334b2?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-81b234?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-60b234?style=for-the-badge)
+
+**Frameworks & Libraries:**  
+![Pandas](https://img.shields.io/badge/Pandas-b29734?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-34b2a7?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-b2b234?style=for-the-badge)
+
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-34b23e?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS%20Code-3444b2?style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-b27334?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Priya Sumbria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyaaasumbria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyaaasumbria&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaaasumbria&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-sumbria-a0868b260/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaaasumbria@gmail.com)
+
+</div>
+
+
+<!-- Generated by ReadmeDesign.com -->
